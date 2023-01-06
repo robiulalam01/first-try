@@ -1,0 +1,41 @@
+.first-header{
+    justify-content: center;
+    width: 700;
+    color: aliceblue;
+    width: 460px;
+    text-align: center;
+    margin-left: 650px;
+    
+}
+.header-dis{
+    text-align: center;
+    font-size: 18px;
+     font-weight: 400px;
+     line-height: 28px;
+}
+.header-about{
+margin-left:520px;
+width: 700px;
+color: aliceblue;
+}
+.banar{
+    background-image:url(../images/donation13.jpg);
+    background-size: 100%;
+height: 600px;
+padding-top: 300px;
+
+}
+.btn{
+    justify-content: center;
+    margin-left: 800px;
+   
+}
+.first-btn{
+    height:56px;
+    width: 160px;
+    background-color: brown;
+    font-weight: 600;
+    font-size: 24px;
+color: aliceblue;
+border: none;
+}
