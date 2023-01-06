@@ -60,6 +60,7 @@ text-align: center;
 justify-content:space-evenly;
 border: 25px;
 height: 25px;
+margin-bottom: 100px;
 
 }
 .btn1{
@@ -82,6 +83,7 @@ height: 25px;
     margin-top: 49px;
     border: none;
     background-color: rgb(247, 200, 166); 
+    margin-bottom: 400px;
 }
 .btn4{
     height:40px;
@@ -96,4 +98,21 @@ height: 25px;
     margin-top: 49px;
     border: none;
     background-color: rgb(247, 200, 166); 
+    
+}
+.tk{
+    color: black;
+text-align: center;
+}
+.first-btn1{
+    justify-content: center;
+    color: rgb(247, 243, 243);
+    height: 45px;
+    width: 120px;
+    background-color: rgb(238, 137, 112);
+}
+.dog{
+text-align: center;
+margin-top: 25px;
+
 }
