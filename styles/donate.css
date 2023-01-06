@@ -39,3 +39,61 @@ padding-top: 300px;
 color: aliceblue;
 border: none;
 }
+.second-header{
+    height: 20px;
+    width: 700px;
+    width: 304px;
+margin-left: 750px;
+margin-top: 150px;
+    
+
+}
+.donate-now{
+text-align: center;
+    width: 400px;
+    margin-left: 650px;
+    justify-content: center;
+}
+.amount{
+
+    display: flex;
+justify-content:space-evenly;
+border: 25px;
+height: 25px;
+
+}
+.btn1{
+    height:40px;
+     width: 100px;
+    margin-top: 49px;
+    border: none;
+    background-color: rgb(247, 200, 166); 
+}
+.btn2{
+    height:40px;
+    width: 100px;
+    margin-top: 49px;
+    background-color: rgb(247, 200, 166); 
+    border: none;
+}
+.btn3{
+    height:40px;
+    width: 100px;
+    margin-top: 49px;
+    border: none;
+    background-color: rgb(247, 200, 166); 
+}
+.btn4{
+    height:40px;
+    width: 100px;
+    margin-top: 49px;
+    border: none;
+    background-color: rgb(247, 200, 166); 
+}
+.btn5{
+    height:40px;
+    width: 100px;
+    margin-top: 49px;
+    border: none;
+    background-color: rgb(247, 200, 166); 
+}
